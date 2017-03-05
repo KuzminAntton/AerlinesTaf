@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1488721001882" stop="1488721043194" version="1.4.24.RC3" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : AerlinesTaf</name>
+    <title>Default Suite : AerlinesTaf</title>
+    <test-cases>
+        <test-case start="1488721010688" stop="1488721042675" status="passed">
+            <name>checkQuantityOfHolidays</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default Suite"/>
+                <label name="testGroup" value="AerlinesTaf"/>
+                <label name="testClass" value="com.epam.tat.airlines.taf.test.BookHolidaysTest"/>
+                <label name="testMethod" value="checkQuantityOfHolidays"/>
+                <label name="host" value="machine-X551CAP"/>
+                <label name="thread" value="11990@machine-X551CAP.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

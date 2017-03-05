@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1488553988090" stop="1488554069676" version="1.4.24.RC3" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : AerlinesTaf</name>
+    <title>Default Suite : AerlinesTaf</title>
+    <test-cases>
+        <test-case start="1488554010089" stop="1488554036580" status="passed">
+            <name>testHireCar</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default Suite"/>
+                <label name="testGroup" value="AerlinesTaf"/>
+                <label name="testClass" value="com.epam.tat.airlines.taf.test.CarHireTest"/>
+                <label name="testMethod" value="testHireCar"/>
+                <label name="host" value="machine-X551CAP"/>
+                <label name="thread" value="15337@machine-X551CAP.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1488554038965" stop="1488554051493" status="passed">
+            <name>childCanNotTakeInfant</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default Suite"/>
+                <label name="testGroup" value="AerlinesTaf"/>
+                <label name="testClass" value="com.epam.tat.airlines.taf.test.HomePageTest"/>
+                <label name="testMethod" value="childCanNotTakeInfant"/>
+                <label name="host" value="machine-X551CAP"/>
+                <label name="thread" value="15337@machine-X551CAP.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1488554056095" stop="1488554064092" status="passed">
+            <name>oneAdultCanCarryOnlyOneInfantTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default Suite"/>
+                <label name="testGroup" value="AerlinesTaf"/>
+                <label name="testClass" value="com.epam.tat.airlines.taf.test.HomePageTest"/>
+                <label name="testMethod" value="oneAdultCanCarryOnlyOneInfantTest"/>
+                <label name="host" value="machine-X551CAP"/>
+                <label name="thread" value="15337@machine-X551CAP.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
